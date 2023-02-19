@@ -1,4 +1,4 @@
-# golden-square-challenges
+# golden-square-phase2
 
 these challenges are to establish and drill fundamental skills in: 
  - TDD
