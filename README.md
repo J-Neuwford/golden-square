@@ -1,9 +1,14 @@
 # golden-square-phase2
 
-these challenges are to establish and drill fundamental skills in: 
+This challenges are to establish and drill fundamental skills in: 
  - TDD
- - code design
+ - OOP
  - debugging
  - pair programming
- 
- Using Ruby and RSpec
+
+In this project I have learned to:
+ - write tests for methods, classes and class systems using RSpec.
+ - implement code by test driving.
+ - design methods, classes and class systems from user specificatons.
+ - use discovery debugging techniques to methodically work through bugs
+ - develop my pair-programming skills, fulfulling driver and navigator roles 

@@ -28,7 +28,6 @@ class Diary
     @entries.each { |entry| 
       entry_reading_time = entry.reading_time(wpm)
       total_reading_time += entry_reading_time
-      #binding.irb
     }
     return total_reading_time
   end
