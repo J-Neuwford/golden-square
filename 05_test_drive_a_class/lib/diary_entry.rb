@@ -14,11 +14,11 @@ class DiaryEntry
   end
 
   def count_words
-    return @ocontents.split(" ").size
+    return @contents.split(" ").size
   end
 
   def reading_time(wpm) 
-    return @contents.split(" ").size / wpm
+    return (@contents.split(" ").size / wpm).ceil
   end
 
   def reading_chunk(wpm, minutes) 

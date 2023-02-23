@@ -1,4 +1,4 @@
-# {{PROBLEM}} Class Design Recipe
+# {{MusicTracker}} Class Design Recipe
 # single class design
 
 ## 1. Describe the Problem
