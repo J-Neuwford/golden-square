@@ -7,10 +7,6 @@ class TodoList
     @task_list << task
   end
 
-  def mark_all_done
-  # marks all tasks as complete
-  end
-
   def return_incomplete_tasks
     incompleted = []
     @task_list.each do |task|

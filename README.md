@@ -12,3 +12,7 @@ In this project I have learned to:
  - design methods, classes and class systems from user specificatons.
  - use discovery debugging techniques to methodically work through bugs
  - develop my pair-programming skills, fulfulling driver and navigator roles 
+
+
+Phase_1 - Testing Bites
+Phase_2 - Challenges
