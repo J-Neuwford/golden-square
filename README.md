@@ -1,6 +1,6 @@
-# golden-square-phase2
+# golden-square
 
-This challenges are to establish and drill fundamental skills in: 
+These challenges are to establish and drill fundamental skills in: 
  - TDD
  - OOP
  - debugging
