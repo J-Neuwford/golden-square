@@ -14,5 +14,7 @@ In this project I have learned to:
  - develop my pair-programming skills, fulfulling driver and navigator roles 
 
 
-Phase_1 - Testing Bites
+Phase_1 - Testing 
 Phase_2 - Challenges
+Phase_3 - Mocking
+Phase_4 - Solo Project: https://github.com/J-Neuwford/takeaway-project
